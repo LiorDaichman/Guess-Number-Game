@@ -17,12 +17,8 @@ To run this game, you need Python installed on your machine.
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/file-cleaner.git
-   cd file-cleaner
-   ```
-2. **enter to the folder**:
-   ```sh
-   cd guess-the-number-game
+   git clone https://github.com/LiorDaichman/Guess-Number-Game.git
+   cd Guess-Number-Game
    ```
 2. **Install dependencies**:
    ```sh
